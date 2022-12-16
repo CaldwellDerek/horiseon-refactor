@@ -52,7 +52,7 @@ nav section ul li {
     margin-left: 25px;
 }
 
-/* Header --------------------------------------------*/
+/* Hero -------------------------------------------- */
 
 .hero {
     height: 800px;
@@ -140,7 +140,7 @@ nav section ul li {
     max-width: 150px;
 }
 
-/* Footer --------------------------------------------*/
+/* Footer -------------------------------------------- */
 
 footer {
     padding: 30px;
@@ -152,4 +152,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-
